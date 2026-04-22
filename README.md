@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/qt/res/icons/asteroid.png" width="150" height="150" alt="ASTEROID (ASTRO)"/>
+  <img src="logo.png" width="150" height="150" alt="ASTEROID (ASTRO)"/>
 </p>
 
 <h1 align="center">ASTEROID (ASTRO)</h1>
